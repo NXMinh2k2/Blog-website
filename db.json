@@ -1,0 +1,20 @@
+{
+  "blogs": [
+    {
+      "title": "Fast Food",
+      "description": "Fastfood là một từ tiếng Anh mang nghĩa là “thức ăn nhanh”. Đây là tên gọi chung của các loại thức ăn được chế biến và phục vụ cho người ăn một cách nhanh chóng. Bất kỳ món ăn hay bữa ăn nào được phục vụ nhanh chóng đều có thể được xem là Fastfood.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/nguyenxuanminh/image/upload/v1653883748/gck30g99natca18d3hln.jpg",
+      "date": "05/30/2022",
+      "id": 2
+    },
+    {
+      "title": "Fresh Vegetable",
+      "description": "Khách hàng chủ yếu của các cửa hàng Fastfood chủ yếu là các bạn thanh thiếu niên. Dùng thức ăn nhanh đang là một xu hướng ăn uống phổ biến của giới trẻ tại các thành phố lớn. Nhiều bạn trẻ cho rằng Fastfood phù hợp với lối sống năng động, hiện đại ngày nay.",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/nguyenxuanminh/image/upload/v1653883828/uan0klcesep9wiuycmcs.jpg",
+      "date": "05/30/2022",
+      "id": 3
+    }
+  ]
+}
